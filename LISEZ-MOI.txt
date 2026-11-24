@@ -1,0 +1,6 @@
+GRAND VOYAGE — BÊTA 0.5, ÉDITION ILLUSTRÉE
+
+Publication GitHub Pages : déposer le fichier index.html ET le dossier images/ à la racine du dépôt.
+Ne pas déposer seulement index.html : les illustrations seraient absentes.
+Le contenu et les fonctions de création de personnage proviennent de la Bêta 0.5.
+Les 8 illustrations sont livrées au format WebP pour accélérer le chargement.
